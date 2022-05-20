@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni&display=swap');
+
+*{
+    font-family: 'Libre Bodoni', serif;
+    word-spacing: 10px;
+}
+
+:root {
+   
+  
+    --gradient-text: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    --gradient-bar: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%);
+    
+    --color-bg: #ffffff;
+    --color-footer : #031B34;
+    --color-blog: #042c54;
+    --color-text: #81AFDD;
+    --color-subtext: #FF8A71;
+    --box-shadow:-2px -1px 34px 5px rgba(12, 12, 5, 0.64);
+    /* -webkit-box-shadow: -2px -1px 34px 20px rgba(152,199,224,0.64);
+    -moz-box-shadow: -2px -1px 34px 20px rgba(152,199,224,0.64); */
+}
